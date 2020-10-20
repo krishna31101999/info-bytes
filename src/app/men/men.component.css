@@ -1,0 +1,37 @@
+
+#cards{
+    margin-top: 10px;
+}
+p{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    color: silver;
+}
+p:hover{
+    color:black;
+}
+#shoes{
+    opacity: 0.7;
+}
+#shoes:hover{
+    opacity: 1;
+}
+#sandals{
+    opacity: 0.7;
+}
+#sandals:hover{
+    opacity: 1;
+}
+#flipflops{
+    opacity: 0.7;
+}
+#flipflops:hover{
+    opacity: 1;
+}
+#socks{
+    opacity: 0.7;
+}
+#socks:hover{
+    opacity: 1;
+}

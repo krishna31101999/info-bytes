@@ -1,0 +1,57 @@
+.card{
+    height: 150px;
+    width: 150px;
+}
+#casualshoesp,#sportsshoesp{
+    padding-left: 25px;
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: lightgray;
+}
+#casualshoesp:hover
+{
+color: black ;
+}
+#formalshoes:hover
+{
+color: #4f1249 ;
+}
+#sportsshoesp:hover
+{
+color: darkorange ;
+}
+
+#title{
+    padding-top: 17px;
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: lightgray;
+}
+i{
+    padding-left: 80px;
+    padding-bottom: 2px;
+    font-size: 34px; 
+    color: white;
+}
+
+p{
+    font-size: 20px;
+    line-height: 1.9px;   
+}
+select{
+    background-color: black;
+    box-shadow: 0px 2px 0px 0px black;
+    border-color: black;
+    border-bottom: 2px solid lemonchiffon;
+    color: lightblue;
+
+}
+option{
+    background-color: #fbecc1;
+    color: #4f1249;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+
+}

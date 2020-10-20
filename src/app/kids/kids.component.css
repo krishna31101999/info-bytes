@@ -1,0 +1,45 @@
+
+#cards{
+    margin-top: 10px;
+    margin-left:250px;
+}
+p{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    color: silver;
+}
+p:hover{
+    color:black;
+}
+#kshoes{
+    opacity: 0.7;
+    padding-right:30px;
+}
+#kshoes:hover{
+    opacity: 1;
+}
+#ksandals{
+    opacity: 0.7;
+    padding-right:30px;
+
+}
+#ksandals:hover{
+    opacity: 1;
+}
+#kflipflops{
+    opacity: 0.7;
+    padding-right:30px;
+
+}
+#kflipflops:hover{
+    opacity: 1;
+}
+#ksocks{
+    opacity: 0.7;
+    padding-right:30px;
+
+}
+#ksocks:hover{
+    opacity: 1;
+}

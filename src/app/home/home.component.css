@@ -1,0 +1,49 @@
+#websitename{
+    font-family: comic sans ms;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 0px;
+    background-color:black;
+    color: white;
+}
+#homecard{
+    padding-bottom: 32px;
+}
+
+nav{
+    border-bottom: 2px solid black;
+}
+#navbarNavAltMarkup{
+    margin-left: -160px;
+    font-size: 19px;
+}
+#menu{
+    padding-right: 40px;
+    color:red;
+}
+#menu:hover{
+    color: black;
+}
+#searchbox{
+margin-left: 30px;
+border-color:white;
+border-bottom: 2px solid black;
+box-shadow: 0px 1px 0px 0px white;
+background-color: white;
+}
+#user{
+    padding-left: 75px;
+    size: 20px;
+}
+#wishlist{
+    padding-left: 55px;
+}
+#cart{
+    padding-left: 55px;
+}
+
+#popular{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+

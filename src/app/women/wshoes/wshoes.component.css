@@ -1,0 +1,24 @@
+.card{
+    height: 150px;
+    width: 150px;
+}
+#casualshoesp,#sportsshoesp{
+    padding-left: 25px;
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: lightgray;
+}
+#casualshoesp:hover
+{
+color: black ;
+}
+#formalshoes:hover
+{
+color: #4f1249 ;
+}
+#sportsshoesp:hover
+{
+color: darkorange ;
+}
+
